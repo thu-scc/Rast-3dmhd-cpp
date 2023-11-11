@@ -1,0 +1,11 @@
+*.o
+*log*
+3dmhd
+test
+*.dat0.*
+*.par
+*.lis
+debug.*
+dump/
+output/
+*.html
